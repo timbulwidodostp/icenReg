@@ -1,6 +1,8 @@
 # icenReg
 Regression Semi-Parametric models for Interval Censored Data Use ic_sp (icenReg) With (In) R Software
 
+https://www.youtube.com/watch?v=-U_fbs6YJzM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
